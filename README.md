@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RFM Analysis Project
 
 This project demonstrates an end-to-end workflow for RFM (Recency, Frequency, Monetary) analysis using a real-world dataset.
@@ -25,3 +26,7 @@ This project demonstrates an end-to-end workflow for RFM (Recency, Frequency, Mo
 
 ---
 Feel free to fork, use, or extend this project!
+=======
+# rfm-analysis
+RFM Analysis project using the UCI Online Retail dataset. The workflow includes data cleaning and processing with SQL, followed by interactive dashboard creation in Excel. Includes raw data, SQL scripts, processed outputs, and a sample dashboard for customer segmentation and business insights.
+>>>>>>> 61944bb5c3c3b1e0ee1dd4d8705390694086b186
