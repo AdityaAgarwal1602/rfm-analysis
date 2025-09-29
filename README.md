@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # RFM Analysis: Online Retail Dataset
 
@@ -94,7 +93,7 @@ This project demonstrates a complete RFM (Recency, Frequency, Monetary) analysis
 ## How to Reproduce
 
 1. Download the dataset and place it in the `Dataset` folder.
-2. Run the SQL scripts in `processing_query.sql` to clean and process the data.
+2. Run the SQL scripts in [processing_query.sql](processing_query.sql) to clean and process the data.
 3. Export the results to `Processed Data.csv`.
 4. Open `RFM Analysis.xlsx` in Excel and refresh/import the processed data.
 5. View or export the dashboard as PDF.
@@ -106,7 +105,4 @@ This project demonstrates a complete RFM (Recency, Frequency, Monetary) analysis
 - Dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail)
 
 ---
-Feel free to fork, use, or extend this project!
-=======
-# rfm-analysis
-RFM Analysis project using the UCI Online Retail dataset. The workflow includes data cleaning and processing with SQL, followed by interactive dashboard creation in Excel. Includes raw data, SQL scripts, processed outputs, and a sample dashboard for customer segmentation and business insights.
+Feel free to fork, use, or extend this project!.
